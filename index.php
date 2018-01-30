@@ -1,4 +1,5 @@
 <?php 
+123
 header("Content-Type: text/html; charset=utf-8");
 require_once("connMysql.php");
 //預設每頁筆數
